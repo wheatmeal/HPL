@@ -11,7 +11,7 @@ var wms_layers = [];
             
             source: new ol.source.XYZ({
     attributions: ' ',
-                url: 'https://basemaps.linz.govt.nz/v1/tiles/aerial/WebMercatorQuad/{z}/{x}/{y}.webp?api=c01gdc39mem05atdkbm5ramk8nq'
+                url: 'https://basemaps.linz.govt.nz/v1/tiles/aerial/WebMercatorQuad/{z}/{x}/{y}.webp?api=c01gk04pxdcq9q2jtt0x00wqj6m'
             })
         });
 var format_HPLClass3_1 = new ol.format.GeoJSON();
